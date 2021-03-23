@@ -15,10 +15,10 @@ In order to assist the ***Colorado Board of Elections*** determine the outcome o
 - Software: Python 3.7.6, Visual Studio Code 1.54.3
 
 ## Election-Audit Results
-The code that was written to evaluate the tabulated election results output the results of the script to a text file.  That text file is shown below:
+The code that was written to evaluate the tabulated election results output the results of the script to a text file.  That text file is shown below.
 ![VS_Code_election_results_Text_File.png](https://github.com/frostbrosracing/Election_Analysis/blob/main/Resources/VS_Code_election_results_Text_File.png)
 
-Shown below is a screen shot of the terminal view within ***Microsoft Visual Studio Code*** of the executed code:
+Shown below is a screen shot of the terminal view within ***Microsoft Visual Studio Code*** of the executed code.  ***Microsoft Visual Studio Code*** is the *Integrated Development Environment*, or *IDE*, used for writing the **Python** code for this audit.
 ![VS_Code_Terminal_election_results.png](https://github.com/frostbrosracing/Election_Analysis/blob/main/Resources/VS_Code_Terminal_election_results.png)
 
 Shown below is a screen shot of the ***GitBash*** view of the executed code:
