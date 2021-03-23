@@ -16,9 +16,11 @@ In order to assist the ***Colorado Board of Elections*** determine the outcome o
 
 ## Election-Audit Results
 The code that was written to evaluate the tabulated election results output the results of the script to a text file.  That text file is shown below.
+
 ![VS_Code_election_results_Text_File.png](https://github.com/frostbrosracing/Election_Analysis/blob/main/Resources/VS_Code_election_results_Text_File.png)
 
 Shown below is a screen shot of the terminal view within ***Microsoft Visual Studio Code*** of the executed code.  ***Microsoft Visual Studio Code*** is the *Integrated Development Environment*, or *IDE*, used for writing the **Python** code for this audit.
+
 ![VS_Code_Terminal_election_results.png](https://github.com/frostbrosracing/Election_Analysis/blob/main/Resources/VS_Code_Terminal_election_results.png)
 
 Shown below is a screen shot of the ***GitBash*** view of the executed code:
@@ -26,6 +28,7 @@ Shown below is a screen shot of the ***GitBash*** view of the executed code:
 ![GitBash_election_results.png](https://github.com/frostbrosracing/Election_Analysis/blob/main/Resources/GitBash_election_results.png)
 
 Shown below is a screen shot of the ***Command Line*** view of the executed code:
+
 ![Command_prompt_election_results.png](https://github.com/frostbrosracing/Election_Analysis/blob/main/Resources/Command_prompt_election_results.png)
 
 *Note* - All three of these images show the result of the same code being run with the exception of line spacing adjustments for consistency of formatting.  This formatting adjustment had absolutely no impact on the calculated outcomes, and was simply done for comparison purposes.
