@@ -28,7 +28,7 @@ Shown below is a screen shot of the ***GitBash*** view of the executed code:
 Shown below is a screen shot of the ***Command Line*** view of the executed code:
 ![Command_prompt_election_results.png](https://github.com/frostbrosracing/Election_Analysis/blob/main/Resources/Command_prompt_election_results.png)
 
-*Note* - All three of these images show the result of the same code being run with the exception of line spacing adjustments for consistency of formatting.  This formatting adjustment had absolutely no impact on the outcome of the calculations and was simply done for comparison purposes.
+*Note* - All three of these images show the result of the same code being run with the exception of line spacing adjustments for consistency of formatting.  This formatting adjustment had absolutely no impact on the calculated outcomes, and was simply done for comparison purposes.
 
 ### The analysis of the election show that: 
 - There were 369,711 votes cast in the election.
