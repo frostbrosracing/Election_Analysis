@@ -15,9 +15,22 @@ In order to assist the ***Colorado Board of Elections*** determine the outcome o
 - Software: Python 3.7.6, Visual Studio Code 1.54.3
 
 ## Election-Audit Results
-The analysis of the election show that:
-![VS_Code_Terminal_election_results.png](https://github.com/frostbrosracing/Election_Analysis/blob/main/Resources/VS_Code_election_results_Text_File.png)
+The code that was written to evaluate the tabulated election results output the results of the script to a text file.  That text file is shown below:
+![VS_Code_election_results_Text_File.png](https://github.com/frostbrosracing/Election_Analysis/blob/main/Resources/VS_Code_election_results_Text_File.png)
 
+Shown below is a screen shot of the terminal view of the executed code:
+![VS_Code_Terminal_election_results.png](https://github.com/frostbrosracing/Election_Analysis/blob/main/Resources/VS_Code_Terminal_election_results.png)
+
+Shown below is a screen shot of the GitBash view of the executed code:
+![GitBash_election_results.png](https://github.com/frostbrosracing/Election_Analysis/blob/main/Resources/GitBash_election_results.png)
+
+Shown below is a screen shot of the Command Line view of the executed code:
+![Command_prompt_election_results.png](https://github.com/frostbrosracing/Election_Analysis/blob/main/Resources/Command_prompt_election_results.png)
+
+All three of the above images are a result of the same code being run with the exception of line spacing adjustments for formatting.  This formatting adjustment had absolutely no impact on the outcome of the calculations and was simply done for comparison purposes.
+
+
+The analysis of the election show that: 
 - There were 369,711 votes cast in the election.
 - The counties in the precinct including their percentage of the total vote and the number of votes cast were:
    - Jefferson representing 10.5% of the vote with 38,855 votes cast.
