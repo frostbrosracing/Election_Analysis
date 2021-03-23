@@ -1,5 +1,4 @@
-# -*- coding: UTF-8 -*-
-"""PyPoll Homework Challenge Solution."""
+# PyPoll_Challenge
 
 # Add our dependencies.
 import csv
