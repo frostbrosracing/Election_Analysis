@@ -50,10 +50,6 @@ Shown below is a screen shot of the ***Command Line*** view of the executed code
 ## Election-Audit Summary
 The **Python** code that was written to analyze the outcome of this election can easily be applied to other elections; whether in other congressional districts, senatorial districts, or local elections.  The user of the code simply needs to direct the path to the appropriate file to be read in the analysis and then to the appropriate file for the output to be recorded.  Below is an image of the portion of the code that needs to be modified for use in other elections.  The values circled in yellow represent the tabulated **.csv election results** file, and the text file that records the ouput.  By making a copy of the code and adjusting this text, the code can be run on any **.csv** file in which the results are formatted with the same column configuration.  
 
-![PyPoll_Challenge_Screenshot.png](
+![PyPoll_Challenge_Screenshot.png](https://github.com/frostbrosracing/Election_Analysis/blob/main/Resources/PyPoll_Challenge_Screenshot.png)
 
-
-Is there a way to automate the process using Python?
-If the audit is done successfully with Python
-    Code may be used for other congressional districts, Senatorial districts, and local elections
     
