@@ -2,7 +2,7 @@
 
 ## Project Overview of the Election Audit
 #### The purpose of this audit was to determine the benefit of using Python code to automate the reporting process of an election.  The code was written and developed within Microsoft Visual Studio Code.  
-In order to assist the ***Colorado Board of Elections*** determine the outcome of a congressional election, a code script was written in which the recorded tabulated results were processed with the following outputs:
+In order to assist the ***Colorado Board of Elections*** determine the outcome of a congressional election, a code script was written in which the recorded tabulated results were processed with the following outcomes:
   1.  The total number of votes cast
   2.  The total number of votes for each candidate
   3.  The percentage of votes for each candidate
@@ -36,13 +36,6 @@ The analysis of the election show that:
    - Raymon Anthony Doane received 3.1% of the vote and 11,606 votes.
 - The winner of the election was:
    - Diana DeGette, who received 73.8% of the vote and 272,892 votes.
-
-
-
-   - 
-
-
-
 
 
 
