@@ -7,11 +7,9 @@ In order to assist the ***Colorado Board of Elections*** determine the outcome o
   2.  The total number of votes for each candidate
   3.  The percentage of votes for each candidate
   4.  The winner of the election based on popular vote
-
-In addition to the above listed requested detail, the following outputs were also calculated:
-  1.  The county with the greatest voter turnout
-  2.  The total number of votes cast within each county
-  3.  The percentage of the total number of votes cast within each county
+  5.  The county with the greatest voter turnout
+  6.  The total number of votes cast within each county
+  7.  The percentage of the total number of votes cast within each county
 #### Resources
 - Data Source: election_results.csv
 - Software: Python 3.7.6, Visual Studio Code 1.54.3
@@ -20,6 +18,13 @@ In addition to the above listed requested detail, the following outputs were als
 The analysis of the election show that:
 
 - There were 369,711 votes cast in the election.
+- The counties in the precinct including their percentage of the total vote and the number of votes cast were:
+   - Jefferson representing 10.5% of the vote with 38,855 votes cast.
+   - Denver representing 82.8% of the vote with 306,055 votes cast.
+   - Arapahoe representing 6.7% of the vote with 24,801 votes cast.
+
+- Denver had the largest number of votes.
+   
 - The candidates were: 
    - Charles Casper Stockham
    - Diana DeGette
