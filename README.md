@@ -16,6 +16,7 @@ In order to assist the ***Colorado Board of Elections*** determine the outcome o
 
 ## Election-Audit Results
 The analysis of the election show that:
+![VS_Code_Terminal_election_results.png](https://github.com/frostbrosracing/Election_Analysis/blob/main/Resources/VS_Code_election_results_Text_File.png)
 
 - There were 369,711 votes cast in the election.
 - The counties in the precinct including their percentage of the total vote and the number of votes cast were:
@@ -25,17 +26,13 @@ The analysis of the election show that:
 
 - Denver had the largest number of votes.
    
-- The candidates were: 
-   - Charles Casper Stockham
-   - Diana DeGette
-   - Raymon Anthony Doane
-
-- The candidate results were:
+- The candidates along with the results of the election were:
    - Charles Casper Stockham received 23.0% of the vote and 85,213 votes.
    - Diana DeGette received 73.8% of the vote and 272,892 votes.
    - Raymon Anthony Doane received 3.1% of the vote and 11,606 votes.
+   - 
 - The winner of the election was:
-   - Diana DeGette, who received 73.8% of the vote and 272,892 votes.
+   - **Diana DeGette**, who received **73.8%** of the vote and **272,892** votes.
 
 
 
