@@ -18,14 +18,14 @@ In order to assist the ***Colorado Board of Elections*** determine the outcome o
 The code that was written to evaluate the tabulated election results output the results of the script to a text file.  That text file is shown below:
 ![VS_Code_election_results_Text_File.png](https://github.com/frostbrosracing/Election_Analysis/blob/main/Resources/VS_Code_election_results_Text_File.png)
 
-Shown below is a screen shot of the terminal view of the executed code:
+Shown below is a screen shot of the terminal view within ***Microsoft Visual Studio Code*** of the executed code:
 ![VS_Code_Terminal_election_results.png](https://github.com/frostbrosracing/Election_Analysis/blob/main/Resources/VS_Code_Terminal_election_results.png)
 
-Shown below is a screen shot of the GitBash view of the executed code:
+Shown below is a screen shot of the ***GitBash*** view of the executed code:
 
 ![GitBash_election_results.png](https://github.com/frostbrosracing/Election_Analysis/blob/main/Resources/GitBash_election_results.png)
 
-Shown below is a screen shot of the Command Line view of the executed code:
+Shown below is a screen shot of the ***Command Line*** view of the executed code:
 ![Command_prompt_election_results.png](https://github.com/frostbrosracing/Election_Analysis/blob/main/Resources/Command_prompt_election_results.png)
 
 *Note* All three of these images show the result of the same code being run with the exception of line spacing adjustments for consistency of formatting.  This formatting adjustment had absolutely no impact on the outcome of the calculations and was simply done for comparison purposes.
@@ -37,18 +37,20 @@ Shown below is a screen shot of the Command Line view of the executed code:
    - Denver representing 82.8% of the vote with 306,055 votes cast.
    - Arapahoe representing 6.7% of the vote with 24,801 votes cast.
 
-- Denver had the largest number of votes.
+- **Denver** had the largest number of votes.
    
 - The candidates along with the results of the election were:
-   - Charles Casper Stockham received 23.0% of the vote and 85,213 votes.
-   - Diana DeGette received 73.8% of the vote and 272,892 votes.
-   - Raymon Anthony Doane received 3.1% of the vote and 11,606 votes.
+   - Charles Casper Stockham, who received 23.0% of the vote and 85,213 votes.
+   - Diana DeGette, who received 73.8% of the vote and 272,892 votes.
+   - Raymon Anthony Doane, who received 3.1% of the vote and 11,606 votes.
    - 
 - The winner of the election was:
    - **Diana DeGette**, who received **73.8%** of the vote and **272,892** votes.
 
+## Election-Audit Summary
+The **Python** code that was written to analyze the outcome of this election can easily be applied to other elections; whether in other congressional districts, senatorial districts, or local elections.  The user of the code simply needs to direct the path to the appropriate file to be read in the analysis and then to the appropriate file for the output to be recorded.  Below is an image of the portion of the code that needs to be modified for use in other elections.  The values circled in yellow represent the tabulated **.csv election results** file, and the text file that records the ouput.  By making a copy of the code and adjusting this text, the code can be run on any **.csv** file in which the results are formatted with the same column configuration.  
 
-
+![PyPoll_Challenge_Screenshot.png](
 
 
 Is there a way to automate the process using Python?
