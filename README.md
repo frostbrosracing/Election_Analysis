@@ -48,7 +48,7 @@ Shown below is a screen shot of the ***Command Line*** view of the executed code
    - **Diana DeGette**, who received **73.8%** of the vote and **272,892** votes.
 
 ## Election-Audit Summary
-The **Python** code that was written to analyze the outcome of this election can easily be applied to other elections; whether in other congressional districts, senatorial districts, or local elections.  
+The **Python** code that was written to analyze the outcome of this election can easily be applied to other elections; whether in other congressional districts, senatorial districts, or local elections.  By using this code for future elections, the election commission will certainly have what is as close to a turn-key product for reporting those election results.  Depending on the specific use case there will likely be some very minor adjustments to the code.  These adjustments could be made in just a matter of a few keystrokes.
 
 1. The user of the code simply needs to direct the path to the appropriate file to be read in the analysis and then to the appropriate file for the output to be recorded.  Below is an image of the portion of the code that needs to be modified for use in other elections.  The values circled in yellow represent the tabulated **.csv election results** file, and the text file that records the ouput.  By making a copy of the code and adjusting this text, the code can be run on any **.csv** file in which the results are formatted with the same column configuration.
 2. If the same column configuration isn't used the code can be modified to pull the values from the appropriate column to be calculated and appropriately output to the text file.
